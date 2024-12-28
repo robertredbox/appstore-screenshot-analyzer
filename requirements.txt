@@ -1,0 +1,6 @@
+Pillow>=9.5.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+fpdf>=1.7.2
+numpy>=1.24.0
+imagehash>=4.3.1
